@@ -1,0 +1,37 @@
+# ------------
+#  data paths
+# ------------
+data_path: '.../processed_LDCT_data'
+
+# -------------------
+#  files to be saved
+# -------------------
+project_files : ["train.py", "main.py", "evaluate.py", "run.sh", "./models/unet.py", "./models/red_cnn.py",
+ "./utils/losses.py", "./utils/utils.py", "./data/dataset.py", "./data/interpolation.py"]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
